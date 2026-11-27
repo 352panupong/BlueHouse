@@ -467,12 +467,12 @@ export const agencyContent: AgencyContent = {
     statement: 'มีโปรเจกต์ในใจ? มาคุยกัน',
     subStatement:
       'ไม่ว่าจะเป็นการสร้างเว็บไซต์องค์กรใหม่ ยกระดับระบบหลังบ้านเดิม หรือพัฒนา Web Application เฉพาะทาง ส่งรายละเอียดเบื้องต้นมาให้ทีมวิศวกรของเราช่วยประเมินแนวทางและงบประมาณได้โดยไม่มีค่าใช้จ่าย',
-    email: 'hello@bluehousedev.co',
+    email: 'bluehose.dev@gmail.com',
     lineId: '@bluehousedev',
-    phone: '+66 (0) 2-000-0000',
+    phone: '+66 (0) 65-368-4607',
     responseSla: 'ตอบกลับภายใน 24 ชั่วโมงในวันทำการ',
     socials: [
-      { label: 'LINE Official', handle: '@bluehousedev', href: 'https://line.me' },
+      { label: 'LINE Official', handle: '@791smjep', href: 'https://line.me' },
       // { label: 'GitHub', handle: 'github.com/bluehouse-dev', href: 'https://github.com' },
       // { label: 'LinkedIn', handle: 'Blue House Dev Solution', href: 'https://linkedin.com' },
     ],
