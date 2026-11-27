@@ -468,7 +468,7 @@ export const agencyContent: AgencyContent = {
     subStatement:
       'ไม่ว่าจะเป็นการสร้างเว็บไซต์องค์กรใหม่ ยกระดับระบบหลังบ้านเดิม หรือพัฒนา Web Application เฉพาะทาง ส่งรายละเอียดเบื้องต้นมาให้ทีมวิศวกรของเราช่วยประเมินแนวทางและงบประมาณได้โดยไม่มีค่าใช้จ่าย',
     email: 'bluehose.dev@gmail.com',
-    lineId: '@bluehousedev',
+    lineId: '@791smjep',
     phone: '+66 (0) 65-368-4607',
     responseSla: 'ตอบกลับภายใน 24 ชั่วโมงในวันทำการ',
     socials: [
